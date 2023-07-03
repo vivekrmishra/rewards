@@ -1,6 +1,6 @@
 # rewards
 # ER Diagram
-![ER Diagram](https://github.com/vivekrmishra/rewards/assets/19673494/b48657be-74fb-41c2-b80f-f43b3b28d5ba)
+![ER Diagram](https://github.com/vivekrmishra/rewards/assets/19673494/04bdce17-ac25-4595-95b5-6a1f6bbd8256)
 
-Sequence Diagram
-![Sequence Diagram](https://github.com/vivekrmishra/rewards/assets/19673494/e8284ee4-3e92-4bc5-a1d0-5f3ab43e1e39)
+# Sequence Diagram
+![Sequence Diagram](https://github.com/vivekrmishra/rewards/assets/19673494/89beb91a-b270-4d5a-9dc1-ba07fe4c5b3f)
